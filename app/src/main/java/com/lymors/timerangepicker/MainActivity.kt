@@ -3,6 +3,7 @@ package com.lymors.timerangepicker
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import com.lymors.timerangepicker.databinding.ActivityMainBinding
 import nl.joery.timerangepicker.TimeRangePicker
 
 class MainActivity : AppCompatActivity() {
